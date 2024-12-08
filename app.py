@@ -24,6 +24,7 @@ def scientific_calculator(operation, num1, num2=None):
         return math.log10(num1)
 
 st.title("Scientific Calculator")
+st.markdown('<p style="color: #3498db;">Developed by Mashal Fatima</p>', unsafe_allow_html=True)
 
 operation = st.selectbox("Select Operation", ['Addition', 'Subtraction', 'Multiplication', 'Division', 'Square Root', 'Exponentiation', 'Sine', 'Cosine', 'Tangent', 'Logarithm'])
 
