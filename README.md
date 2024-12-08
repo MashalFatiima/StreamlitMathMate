@@ -29,3 +29,7 @@ This project is a **Scientific Calculator** built with Python and deployed using
 3. Run the Streamlit app:
     ```bash
    python-scientific-calculator.streamlit.app
+
+## Developed By
+
+**Mashal Fatima**
