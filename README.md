@@ -22,13 +22,12 @@ This project is a **Scientific Calculator** built with Python and deployed using
 
 ## How to Run
 
-1. Clone the repository or copy the `scientific_calculator.py` file to your local machine.
-2. Install the required dependencies:
+1. Install the required dependencies:
    ```bash
    pip install streamlit
 3. Run the Streamlit app:
     ```bash
-   python-scientific-calculator.streamlit.app
+   streamlit run app.py
 
 ## Developed By
 
